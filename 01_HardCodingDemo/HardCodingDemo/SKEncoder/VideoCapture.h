@@ -5,7 +5,7 @@
 //  Created by sunke on 2020/9/9.
 //  Copyright © 2020 KentSun. All rights reserved.
 //
-// 视频采集工具类
+// 硬编码 视频采集工具类
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
