@@ -632,7 +632,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SoftwareDecodingDemo/FFmpeg-iOS/lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = KentSun.GPUImage3Demo;
+				PRODUCT_BUNDLE_IDENTIFIER = KentSun.SoftwareDecodingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -655,7 +655,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SoftwareDecodingDemo/FFmpeg-iOS/lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = KentSun.GPUImage3Demo;
+				PRODUCT_BUNDLE_IDENTIFIER = KentSun.SoftwareDecodingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
